@@ -1,0 +1,36 @@
+# Diretórios e arquivos gerados pela ferramenta de Build
+/build/
+/out/
+/target/
+
+# Arquivos gerados pelo Maven ou Gradle
+*.class
+*.jar
+*.war
+*.ear
+
+# IDEs
+*.idea/
+*.vscode/
+*.classpath
+*.project
+*.settings/
+*.iml
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# Logs e dados temporários
+*.log
+*.tmp
+
+# Arquivos de cache ou de controle
+*.lock
+*.swp
+
+# Binários e arquivos de debug
+*.exe
+*.dll
+*.so
+*.dylib
