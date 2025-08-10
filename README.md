@@ -1,2 +1,1 @@
-# isiflix
-Repositório para colocar meus avanços na linguagem Java ☕
+# isiflix - Curso de POO
